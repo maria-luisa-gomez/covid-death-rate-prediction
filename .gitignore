@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# files
+extra.ipynb
+magia.ipynb
+sinave4.csv
+Base-covid-sinave 31012021.csv
