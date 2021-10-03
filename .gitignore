@@ -134,3 +134,5 @@ extra.ipynb
 magia.ipynb
 sinave4.csv
 Base-covid-sinave 31012021.csv
+unbalanced_multiclass_rmse.csv
+balanced_multiclass_rmse
