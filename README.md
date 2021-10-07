@@ -30,7 +30,6 @@ The objective of this proyect is building a predicting model that knowing sympto
 
 <img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/15.png" width="700" height="400">
 
-<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/16.png" width="700" height="400">
 
 
 # Streamlit APP
