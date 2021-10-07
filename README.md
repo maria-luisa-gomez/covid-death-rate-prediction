@@ -14,21 +14,37 @@ The objective of this proyect is building a predicting model that knowing sympto
 <img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/3.png" width="700" height="400">
 
 
+## EDA
+
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/6.png" width="700" height="400">
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/7.png" width="700" height="400">
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/8.png" width="700" height="400">
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/9.png" width="700" height="400">
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/10.png" width="700" height="400">
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/11.png" width="700" height="400">
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/12.png" width="700" height="400">
 
 ## Modelling
 
-<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/13.png" width="700" height="400">
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/14.png" width="700" height="400">
 
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/15.png" width="700" height="400">
+
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/16.png" width="700" height="400">
+
+
+# Streamlit APP
+
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/16.png" width="700" height="400">
 
 
 
 ## Database
 
-
+Sistema Nacional de Vigilancia Epidemiológica para el seguimiento a posibles casos de COVID-19 en la Ciudad de México.
 
 
 ## Libraries
-
 
 [seaborn](https://seaborn.pydata.org)
 
