@@ -8,20 +8,16 @@ Coronavirus (COVID-19) is one of the most serious problems that has caused stopp
 The objective of this proyect is building a predicting model that knowing symptoms, age, sex and comorbidities of the patient, can  tell you if the patient is high risk o low risk, so doctors can give her/him priority which can reduce mortality rate.
 
 
+
+
 ## Methods
-<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/3README CAPTUR/.png" width="700" height="400">
-Cancel changes
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/3.png" width="700" height="400">
 
-## Steps
 
-- 2 Supervised & Classification
-Logistic Regression
-Decision Tree Classification
-Random Forest
-K-Nearest Neighbours
-GaussianNB
-Support Vector Machine
-XGBoost
+
+## Modelling
+
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/13.png" width="700" height="400">
 
 
 
