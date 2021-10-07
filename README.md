@@ -1,5 +1,7 @@
 # covid death rate prediction
 
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/1.png" width="700" height="400">
+
 
 Coronavirus (COVID-19) is one of the most serious problems that has caused stopping the wheel of life all over the world. It is widely spread to the extent that hospital places are not available for all patients. Therefore, most hospitals accept patients whose recovery rate is high.
 
@@ -7,9 +9,7 @@ The objective of this proyect is building a predicting model that knowing sympto
 
 
 ## Methods
-- 1 EDA
-- 2 Model training, machine learning
-- 2 Building app in with Streamlit
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/3.png" width="700" height="400">
 
 
 ## Steps
