@@ -24,6 +24,10 @@ The objective of this proyect is building a predicting model that knowing sympto
 <img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/11.png" width="700" height="400">
 <img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/12.png" width="700" height="400">
 
+## Training models
+
+<img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/13.png" width="700" height="400">
+
 ## Best Model
 
 <img src="https://github.com/maria-luisa-gomez/covid-death-rate-prediction/blob/main/images/README CAPTUR/14.png" width="700" height="400">
