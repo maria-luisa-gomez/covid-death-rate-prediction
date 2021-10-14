@@ -54,8 +54,6 @@ Sistema Nacional de Vigilancia Epidemiológica para el seguimiento a posibles ca
 [get_dummies](https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html)
 
 [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
-´
-[StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
 
 [SMOTE](https://towardsdatascience.com/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5)
 
